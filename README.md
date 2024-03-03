@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RichyHBM
 - 👀 I’m interested in all things self-hosting
-- 🌱 I’m currently learning kotlin/jvm, docker, linux, devops
-- 📫 How to reach me I generally go by RichyHBM on all things social
+- 🌱 I’m currently learning Golang, Docker, Linux, DevOps & Neovim :wq
+- 📫 I generally go by RichyHBM on all things social
 
 <!---
 RichyHBM/RichyHBM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
